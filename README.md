@@ -1,2 +1,2 @@
 # abc
-just a repository
+under master branch,named readme-edits
